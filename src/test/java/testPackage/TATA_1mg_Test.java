@@ -12,6 +12,7 @@ public class TATA_1mg_Test extends BaseClass {
 	public void myntra() {
 		Reporter.log("TATA 1mg" , true);
 		driver.get("https://www.1mg.com/");
+		System.out.println("TATA 1mg Page is Opened");
 	}
 	
 }
