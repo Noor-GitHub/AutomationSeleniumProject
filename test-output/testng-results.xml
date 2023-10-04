@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[openBrowser]]>
+    </line>
+    <line>
+      <![CDATA[URL & Login]]>
+    </line>
+    <line>
+      <![CDATA[flipkart]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[closeBrowser]]>
+    </line>
+    <line>
+      <![CDATA[openBrowser]]>
+    </line>
+    <line>
+      <![CDATA[URL & Login]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[URL & Login]]>
+    </line>
+    <line>
+      <![CDATA[Amazon]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[closeBrowser]]>
+    </line>
+    <line>
+      <![CDATA[openBrowser]]>
+    </line>
+    <line>
+      <![CDATA[URL & Login]]>
+    </line>
+    <line>
+      <![CDATA[TATA 1mg Open]]>
+    </line>
+    <line>
+      <![CDATA[TATA 1mg Page is Open]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[closeBrowser]]>
+    </line>
+    <line>
+      <![CDATA[openBrowser]]>
+    </line>
+    <line>
+      <![CDATA[URL & Login]]>
+    </line>
+    <line>
+      <![CDATA[Myntra]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[closeBrowser]]>
+    </line>
+    <line>
+      <![CDATA[openBrowser]]>
+    </line>
+    <line>
+      <![CDATA[URL & Login]]>
+    </line>
+    <line>
+      <![CDATA[Nykaa]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[closeBrowser]]>
+    </line>
+    <line>
+      <![CDATA[openBrowser]]>
+    </line>
+    <line>
+      <![CDATA[URL & Login]]>
+    </line>
+    <line>
+      <![CDATA[TATA Bigbasket]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[closeBrowser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-10-04T05:12:14 IST" name="Suite" finished-at="2023-10-04T05:13:12 IST" duration-ms="57921">
+    <groups>
+    </groups>
+    <test started-at="2023-10-04T05:12:14 IST" name="Test" finished-at="2023-10-04T05:13:12 IST" duration-ms="57921">
+      <class name="testPackage.NykaaTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testPackage.NykaaTest@3d34d211]" started-at="2023-10-04T05:12:58 IST" name="openBrowser" finished-at="2023-10-04T05:12:59 IST" duration-ms="1261" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[openBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:testPackage.NykaaTest@3d34d211]" started-at="2023-10-04T05:12:59 IST" name="login" finished-at="2023-10-04T05:12:59 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[URL & Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="nykaa()[pri:0, instance:testPackage.NykaaTest@3d34d211]" started-at="2023-10-04T05:12:59 IST" name="nykaa" finished-at="2023-10-04T05:13:03 IST" duration-ms="4350" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Nykaa]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- nykaa -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testPackage.NykaaTest@3d34d211]" started-at="2023-10-04T05:13:03 IST" name="logout" finished-at="2023-10-04T05:13:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testPackage.NykaaTest@3d34d211]" started-at="2023-10-04T05:13:03 IST" name="closeBrowser" finished-at="2023-10-04T05:13:03 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closeBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testPackage.NykaaTest -->
+      <class name="testPackage.MyntraTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testPackage.MyntraTest@ae13544]" started-at="2023-10-04T05:12:54 IST" name="openBrowser" finished-at="2023-10-04T05:12:56 IST" duration-ms="1370" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[openBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:testPackage.MyntraTest@ae13544]" started-at="2023-10-04T05:12:56 IST" name="login" finished-at="2023-10-04T05:12:56 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[URL & Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="myntra()[pri:0, instance:testPackage.MyntraTest@ae13544]" started-at="2023-10-04T05:12:56 IST" name="myntra" finished-at="2023-10-04T05:12:57 IST" duration-ms="1632" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Myntra]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- myntra -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testPackage.MyntraTest@ae13544]" started-at="2023-10-04T05:12:57 IST" name="logout" finished-at="2023-10-04T05:12:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testPackage.MyntraTest@ae13544]" started-at="2023-10-04T05:12:57 IST" name="closeBrowser" finished-at="2023-10-04T05:12:58 IST" duration-ms="299" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closeBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testPackage.MyntraTest -->
+      <class name="testPackage.FlipkartTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testPackage.FlipkartTest@38afe297]" started-at="2023-10-04T05:12:14 IST" name="openBrowser" finished-at="2023-10-04T05:12:17 IST" duration-ms="2693" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[openBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:testPackage.FlipkartTest@38afe297]" started-at="2023-10-04T05:12:17 IST" name="login" finished-at="2023-10-04T05:12:17 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[URL & Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="flipkart()[pri:0, instance:testPackage.FlipkartTest@38afe297]" started-at="2023-10-04T05:12:17 IST" name="flipkart" finished-at="2023-10-04T05:12:23 IST" duration-ms="5944" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[flipkart]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- flipkart -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testPackage.FlipkartTest@38afe297]" started-at="2023-10-04T05:12:23 IST" name="logout" finished-at="2023-10-04T05:12:23 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testPackage.FlipkartTest@38afe297]" started-at="2023-10-04T05:12:23 IST" name="closeBrowser" finished-at="2023-10-04T05:12:23 IST" duration-ms="407" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closeBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testPackage.FlipkartTest -->
+      <class name="testPackage.TATA_1mg_Test">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testPackage.TATA_1mg_Test@6f4a47c7]" started-at="2023-10-04T05:12:26 IST" name="openBrowser" finished-at="2023-10-04T05:12:28 IST" duration-ms="1363" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[openBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:testPackage.TATA_1mg_Test@6f4a47c7]" started-at="2023-10-04T05:12:28 IST" name="login" finished-at="2023-10-04T05:12:28 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[URL & Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="myntra()[pri:0, instance:testPackage.TATA_1mg_Test@6f4a47c7]" started-at="2023-10-04T05:12:28 IST" name="myntra" finished-at="2023-10-04T05:12:54 IST" duration-ms="26376" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TATA 1mg Open]]>
+            </line>
+            <line>
+              <![CDATA[TATA 1mg Page is Open]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- myntra -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testPackage.TATA_1mg_Test@6f4a47c7]" started-at="2023-10-04T05:12:54 IST" name="logout" finished-at="2023-10-04T05:12:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testPackage.TATA_1mg_Test@6f4a47c7]" started-at="2023-10-04T05:12:54 IST" name="closeBrowser" finished-at="2023-10-04T05:12:54 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closeBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testPackage.TATA_1mg_Test -->
+      <class name="testPackage.AmazonTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testPackage.AmazonTest@69453e37]" started-at="2023-10-04T05:12:23 IST" name="openBrowser" finished-at="2023-10-04T05:12:25 IST" duration-ms="1689" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[openBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:testPackage.AmazonTest@69453e37]" started-at="2023-10-04T05:12:25 IST" name="login" finished-at="2023-10-04T05:12:25 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[URL & Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Demo()[pri:0, instance:testPackage.AmazonTest@69453e37]" started-at="2023-10-04T05:12:25 IST" name="Demo" finished-at="2023-10-04T05:12:25 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testPackage.AmazonTest@69453e37]" started-at="2023-10-04T05:12:25 IST" name="logout" finished-at="2023-10-04T05:12:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:testPackage.AmazonTest@69453e37]" started-at="2023-10-04T05:12:25 IST" name="login" finished-at="2023-10-04T05:12:25 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[URL & Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="amazon()[pri:0, instance:testPackage.AmazonTest@69453e37]" started-at="2023-10-04T05:12:25 IST" name="amazon" finished-at="2023-10-04T05:12:26 IST" duration-ms="1148" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Amazon]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- amazon -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testPackage.AmazonTest@69453e37]" started-at="2023-10-04T05:12:26 IST" name="logout" finished-at="2023-10-04T05:12:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testPackage.AmazonTest@69453e37]" started-at="2023-10-04T05:12:26 IST" name="closeBrowser" finished-at="2023-10-04T05:12:26 IST" duration-ms="410" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closeBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testPackage.AmazonTest -->
+      <class name="testPackage.TATA_BigBasket_Test">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testPackage.TATA_BigBasket_Test@7dc0f706]" started-at="2023-10-04T05:13:03 IST" name="openBrowser" finished-at="2023-10-04T05:13:05 IST" duration-ms="1369" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[openBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:testPackage.TATA_BigBasket_Test@7dc0f706]" started-at="2023-10-04T05:13:05 IST" name="login" finished-at="2023-10-04T05:13:05 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[URL & Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="myntra()[pri:0, instance:testPackage.TATA_BigBasket_Test@7dc0f706]" started-at="2023-10-04T05:13:05 IST" name="myntra" finished-at="2023-10-04T05:13:11 IST" duration-ms="6702" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TATA Bigbasket]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- myntra -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testPackage.TATA_BigBasket_Test@7dc0f706]" started-at="2023-10-04T05:13:11 IST" name="logout" finished-at="2023-10-04T05:13:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testPackage.TATA_BigBasket_Test@7dc0f706]" started-at="2023-10-04T05:13:11 IST" name="closeBrowser" finished-at="2023-10-04T05:13:12 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closeBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testPackage.TATA_BigBasket_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
