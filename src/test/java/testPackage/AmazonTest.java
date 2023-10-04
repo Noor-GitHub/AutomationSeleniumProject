@@ -11,6 +11,7 @@ public class AmazonTest extends BaseClass {
 	public void amazon() {
 		Reporter.log("Amazon" , true);
 		driver.get("https://www.amazon.in/");
+		Reporter.log("Amazon Login success by Noor" , true);
 	}
 	
 	@Test
